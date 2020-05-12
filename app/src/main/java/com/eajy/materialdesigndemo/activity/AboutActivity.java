@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
@@ -34,6 +35,8 @@ public class AboutActivity extends AppCompatActivity implements View.OnClickList
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
+
+        Log.e("tag", "aboutActivity onCreate");
 
         getWindow().setNavigationBarColor(getResources().getColor(R.color.colorPrimary));
 

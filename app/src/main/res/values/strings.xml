@@ -235,4 +235,10 @@
 
     <!-- String related to My Apps -->
     <string name="activity_my_apps">My Apps</string>
+
+    <string name="banner_ad_unit_id_donate">banner_ad_unit_id_donate</string>
+    <string name="banner_ad_unit_id_main_card">banner_ad_unit_id_main_card</string>
+    <string name="banner_ad_unit_id_main_dialog">banner_ad_unit_id_main_dialog</string>
+    <string name="banner_ad_unit_id_main_widget">banner_ad_unit_id_main_widget</string>
+    <string name="native_ad_unit_id_main">native_ad_unit_id_main</string>
 </resources>
