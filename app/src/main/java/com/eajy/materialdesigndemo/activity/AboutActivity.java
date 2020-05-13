@@ -36,7 +36,7 @@ public class AboutActivity extends AppCompatActivity implements View.OnClickList
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
 
-        Log.e("tag", "aboutActivity onCreate ");
+        Log.e("tag", "aboutActivity onCreate master");
 
         getWindow().setNavigationBarColor(getResources().getColor(R.color.colorPrimary));
 
