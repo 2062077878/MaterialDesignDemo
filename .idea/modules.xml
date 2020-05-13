@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialDesignDemo.iml" filepath="$PROJECT_DIR$/MaterialDesignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/MaterialDesignDemo-app.iml" filepath="$PROJECT_DIR$/app/MaterialDesignDemo-app.iml" group="MaterialDesignDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/开源项目-MaterialDesignDemo.iml" filepath="$PROJECT_DIR$/开源项目-MaterialDesignDemo.iml" group="MaterialDesignDemo" />
     </modules>
   </component>
 </project>
